@@ -1,4 +1,4 @@
-# CMPUT 301 : Lab 7 
+# CMPUT 301 : Lab 7 - Intent (Android UI) Testing
 
 ## Student Details
 
@@ -14,6 +14,7 @@ N/A
 | Student Name | CCID     |
 | ------------ | -------- |
 | Eypan Mercado | eypan |
+
 
 
 
